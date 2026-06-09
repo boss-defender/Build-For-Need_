@@ -9,7 +9,7 @@ An interactive, responsive full-stack platform where everyday individuals (**Pro
 
 ***Here, some people will share their problems. And developers, especially beginners, will create tools, websites or softwares or any projects to solve their problems for free. Thus, they can help people and they themselves can create an interesting and new brilliant project that can solve real world problems. This will also help them to build strong portfolio in LinkedIn.***
 
-## 🔗 Website Link: 
+## 🔗 Website Link
 https://buildforneed.onrender.com/
 
 ## 🌟 Key Features
