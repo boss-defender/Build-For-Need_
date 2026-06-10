@@ -1,6 +1,19 @@
-# Project From Problem
+# Build For Need
 
-An interactive, responsive full-stack platform where everyday individuals (**Problem Sharers**) share authentic real-world dilemmas, and software engineers (**Developers**) propose open-source websites, widgets, repositories, or scripts to solve them.
+An interactive, responsive full-stack platform where everyday individuals (**Problem Sharers**) share authentic real-world dilemmas, and (**Developers**) specially beginners propose open-source websites, widgets, repositories, or scripts to solve them.
+
+# Main Purpose 
+***New developers often only create to-do list, calculator and weather app projects. And when they go for interviews in companies, the companies are not impressed with all these projects they see. They want new ideas and interesting projects.***
+
+***Sometimes a project can be very interesting and very brilliant, but it does not solve any real problem in the real world or reality. So this website is for them.***
+
+***Here, some people will share their problems. And developers, especially beginners, will create tools, websites or softwares or any projects to solve their problems for free. Thus, they can help people and they themselves can create an interesting and new brilliant project that can solve real world problems. This will also help them to build strong portfolio in LinkedIn.***
+
+## Main Developer 
+https://github.com/boss-defender/Build_For_Need.git
+
+## 🔗 Website Link
+https://buildforneed.onrender.com/
 
 ## 🌟 Key Features
 
@@ -14,6 +27,9 @@ An interactive, responsive full-stack platform where everyday individuals (**Pro
 8. **Purpose-Driven About Experience**: Highlights why code is most impactful when solved around active human dilemmas.
 
 ---
+
+## Watch Demo 
+https://drive.google.com/file/d/1FEZ0sqpJCRoUnQEhq2-GBsHy8VhjHPcD/view?usp=sharing
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -64,5 +80,3 @@ The platform is seeded pre-loaded with sample data to simulate a bustling develo
 
 - **Sarah Jenkins** (Problem Sharer): `sarah@gmail.com`
 - **Alex Rivera** (Developer Enthusiast): `alex@dev.com`
-
-*For login testing, typing any password of choice succeeds!*
