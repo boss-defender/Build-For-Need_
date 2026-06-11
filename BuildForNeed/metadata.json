@@ -1,8 +1,0 @@
-{
-  "name": "Remix: Remix: Remix: Remix: Project From Problem",
-  "description": "A collaborative platform where users share real-world problems and developers browse, discuss, and build full-stack solutions.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
